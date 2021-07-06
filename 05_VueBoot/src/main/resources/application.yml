@@ -1,0 +1,13 @@
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/test_book?serverTimezone=UTC
+    username: root
+    password: 33699836
+    driver-class-name: com.mysql.cj.jdbc.Driver
+  jap:
+    show-sql: true
+    properties:
+      hibernate:
+        format_sql: true
+server:
+  port: 8181

@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: cuifua.VueBootApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 15.141 s - in cuifua.VueBootApplicationTests
